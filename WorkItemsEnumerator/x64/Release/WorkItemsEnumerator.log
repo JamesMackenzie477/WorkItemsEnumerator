@@ -1,0 +1,24 @@
+﻿  Building 'WorkItemsEnumerator' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Release\WorkItemsEnumerator.inf [Version] section with DriverVer=08/12/2018,16.10.56.377
+  WorkItemsEnumerator.cpp
+WorkItemsEnumerator.cpp(17): warning C4100: 'RegistryPath': unreferenced formal parameter
+WorkItemsEnumerator.cpp(17): warning C4100: 'DriverObject': unreferenced formal parameter
+  WorkItemsEnumerator.vcxproj -> D:\Projects\C++\WorkItemsEnumerator\x64\Release\WorkItemsEnumerator.sys
+  WorkItemsEnumerator.vcxproj -> D:\Projects\C++\WorkItemsEnumerator\x64\Release\WorkItemsEnumerator.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: D:\Projects\C++\WorkItemsEnumerator\x64\Release\WorkItemsEnumerator.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  D:\Projects\C++\WorkItemsEnumerator\x64\Release\WorkItemsEnumerator\workitemsenumerator.cat
+  Done Adding Additional Store
+  Successfully signed: D:\Projects\C++\WorkItemsEnumerator\x64\Release\WorkItemsEnumerator\workitemsenumerator.cat
+  

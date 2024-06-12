@@ -1,0 +1,6 @@
+﻿  Building 'WorkItemsEnumerator' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\WorkItemsEnumerator.inf [Version] section with DriverVer=08/12/2018,16.1.50.193
+  WorkItemsEnumerator.cpp
+WorkItemsEnumerator.cpp(33): warning C4100: 'RegistryPath': unreferenced formal parameter
+BufferOverflowFastFailK.lib(gs_driverentry.obj) : error LNK2019: unresolved external symbol DriverEntry referenced in function GsDriverEntry
+D:\Projects\C++\WorkItemsEnumerator\x64\Debug\WorkItemsEnumerator.sys : fatal error LNK1120: 1 unresolved externals
